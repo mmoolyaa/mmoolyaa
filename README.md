@@ -1,5 +1,8 @@
 # 💫 About Me:
-👩🏻‍💻 16 y.o Junior Software Engineer willing to contribute to any project!<br>🎓 Studying Software Engineering at SMK Telkom Jakarta, Indonesia<br>🎨 Currently learning a lot about web development<br>💭 Reach me out via instagram!
+👩🏻‍💻 16 y.o Junior Software Engineer willing to contribute to any project!<br>
+🎓 Studying **Software Engineering** at SMK Telkom Jakarta, Indonesia<br>
+🎨 Currently learning a lot about ***Web Development***<br>
+💭 Reach me out via [instagram!](https://instagram.com/andarammw)
 
 
 ## 🌐 Socials:
