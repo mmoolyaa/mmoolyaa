@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 Hi there, I'm Andara <br>
 👩🏻‍💻 16 y.o Junior Software Engineer willing to contribute to any project!<br>
 🎓 Studying **Software Engineering** at SMK Telkom Jakarta, Indonesia<br>
 🎨 Currently learning a lot about ***Web Development***<br>
