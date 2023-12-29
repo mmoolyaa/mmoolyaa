@@ -5,7 +5,7 @@
 🎨 Currently learning a lot about ***web development*** <br/>
 💭 Reach me out via [_instagram!_](https://instagram.com/andarammw)<br/>      
 
-[![Andara's github stats](https://github-readme-stats.vercel.app/api?username=mmoolyaa&count_private=true&show_icons=true&theme=nord )](https://github.com/anuraghazra/github-readme-stats)
+[![Andara's github stats](https://github-readme-stats.vercel.app/api?username=mmoolyaa&count_private=true&show_icons=true&theme=react )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mmoolyaa/mmoolyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
