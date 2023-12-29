@@ -1,9 +1,9 @@
 ### Hi there, I'm Andara 👋
 
 👩🏻‍💻 16 y.o Junior Software Engineer willing to contribute to any project!<br/>
-👩🏻‍🎓 Studying [Software Engineering]at the SMK Telkom Jakarta, Indonesia<br/>
-🎨 Currently learning a lot about web development <br/>
-💭 Reach me out via [instagram!](instagram.com/andarammw)<br/>      
+👩🏻‍🎓 Studying **Software Engineering** at the SMK Telkom Jakarta, Indonesia<br/>
+🎨 Currently learning a lot about ***web development*** <br/>
+💭 Reach me out via [_instagram!_](https://instagram.com/andarammw)<br/>      
 
 [![Andara's github stats](https://github-readme-stats.vercel.app/api?username=mmoolyaa&count_private=true&show_icons=true&theme=nord )](https://github.com/anuraghazra/github-readme-stats)
 
